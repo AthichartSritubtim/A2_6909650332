@@ -25,6 +25,7 @@ html, body {
 }
 
 .T1, .T2, .T3, .T4 {
+    color: white;
     flex: 0 0 320px;
     background-color: transparent;
     backdrop-filter: blur(10px);
